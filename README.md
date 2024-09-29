@@ -34,7 +34,8 @@ List of all the AI Research Papers I have found and used
 * [Large Language Model Guided Tree-of-Thought](https://arxiv.org/pdf/2305.08291) 
 * [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300) 
 * [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](https://arxiv.org/abs/2406.01574) 
-* [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685) 
+* [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685)
+* [Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting](https://arxiv.org/abs/2305.04388)
 
 
 

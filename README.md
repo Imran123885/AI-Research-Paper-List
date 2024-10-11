@@ -14,7 +14,7 @@ List of all the AI Research Papers I have found and used
 ### Architecture/Models
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) 
 
-### Prompting/Agents
+### Prompting
 * [Emergent Abilities of Large Language Models](https://arxiv.org/pdf/2206.07682) 
 * [The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A”](https://arxiv.org/pdf/2309.12288.pdf) 
 * [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172) 
@@ -36,6 +36,15 @@ List of all the AI Research Papers I have found and used
 * [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](https://arxiv.org/abs/2406.01574) 
 * [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685)
 * [Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting](https://arxiv.org/abs/2305.04388)
+
+### Agents
+* [Escalation Risks from Language Models in Military and Diplomatic Decision-Making](https://arxiv.org/abs/2401.03408)
+* [Towards Autonomous Agents: Adaptive-planning, Reasoning, and Acting in Language Models](https://arxiv.org/pdf/2408.06458)
+* [Foundational Challenges in Assuring Alignment and Safety of Large Language Models](https://arxiv.org/abs/2404.09932)
+* [Bias and Toxicity in Role-Play Reasoning](https://arxiv.org/abs/2409.13979)
+* [PersonaGym: Evaluating Persona Agents and LLMs](https://arxiv.org/abs/2407.18416)
+* [Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMS](https://arxiv.org/abs/2311.04892)
+* [Systematic Biases in LLM Simulations of Debates](https://arxiv.org/abs/2402.04049)
 
 
 
